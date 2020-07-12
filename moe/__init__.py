@@ -1,0 +1,2 @@
+from .logistic import SoftLogisticRegression, logistic_regression
+from .mixture import MixtureOfExpertsClassifier, MixtureOfExpertsRegressor
